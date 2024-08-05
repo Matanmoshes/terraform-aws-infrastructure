@@ -24,6 +24,8 @@ AWS VPC (10.0.0.0/16)
         ├── 0.0.0.0/0 -> NAT Gateway
 ```
 
+
+
 ![image](https://github.com/user-attachments/assets/5cada2fd-2d15-4b59-ab75-accdd1d6ece0)
 
 
